@@ -16,4 +16,6 @@ class Student {
   }
 }
 
-export {};
+export { }
+
+const student = new Student('John', 25, 'B');
